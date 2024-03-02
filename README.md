@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @andyisfear
+- 👀 I’m interested in lear more.
+- 🌱 I’m currently learning JavaScript and Python.
+- 💞️ I’m looking to collaborate on analysis and development
+- 📫 How to reach me just send a message :3
+- 😄 Pronouns: anyone.
+- ⚡ Fun fact: I hate burgers.
